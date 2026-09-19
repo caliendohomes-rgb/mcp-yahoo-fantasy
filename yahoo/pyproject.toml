@@ -19,9 +19,10 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/michaelfromorg/mcp-yahoo-fantasy"
-Repository = "https://github.com/michaelfromorg/mcp-yahoo-fantasy"
-Issues = "https://github.com/michaelfromorg/mcp-yahoo-fantasy/issues"
+Homepage = "https://github.com/caliendohomes-rgb/mcp-yahoo-fantasy"
+Repository = "https://github.com/caliendohomes-rgb/mcp-yahoo-fantasy"
+Issues = "https://github.com/caliendohomes-rgb/mcp-yahoo-fantasy/issues"
+Upstream = "https://github.com/michaelfromorg/mcp-yahoo-fantasy"
 
 [build-system]
 requires = ["hatchling"]
